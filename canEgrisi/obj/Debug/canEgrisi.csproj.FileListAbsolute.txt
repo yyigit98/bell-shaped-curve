@@ -1,0 +1,30 @@
+B:\Docs\vsRepos\canEgrisi\canEgrisi\bin\Debug\canEgrisi.exe.config
+B:\Docs\vsRepos\canEgrisi\canEgrisi\bin\Debug\canEgrisi.exe
+B:\Docs\vsRepos\canEgrisi\canEgrisi\bin\Debug\canEgrisi.pdb
+B:\Docs\vsRepos\canEgrisi\canEgrisi\obj\Debug\canEgrisi.csprojAssemblyReference.cache
+B:\Docs\vsRepos\canEgrisi\canEgrisi\obj\Debug\canEgrisi.Form1.resources
+B:\Docs\vsRepos\canEgrisi\canEgrisi\obj\Debug\canEgrisi.Properties.Resources.resources
+B:\Docs\vsRepos\canEgrisi\canEgrisi\obj\Debug\canEgrisi.csproj.GenerateResource.cache
+B:\Docs\vsRepos\canEgrisi\canEgrisi\obj\Debug\canEgrisi.csproj.CoreCompileInputs.cache
+B:\Docs\vsRepos\canEgrisi\canEgrisi\obj\Debug\canEgrisi.exe
+B:\Docs\vsRepos\canEgrisi\canEgrisi\obj\Debug\canEgrisi.pdb
+C:\Users\Edward\Desktop\qwe\canEgrisi\canEgrisi\bin\Debug\canEgrisi.exe.config
+C:\Users\Edward\Desktop\qwe\canEgrisi\canEgrisi\bin\Debug\canEgrisi.exe
+C:\Users\Edward\Desktop\qwe\canEgrisi\canEgrisi\bin\Debug\canEgrisi.pdb
+C:\Users\Edward\Desktop\qwe\canEgrisi\canEgrisi\obj\Debug\canEgrisi.csprojAssemblyReference.cache
+C:\Users\Edward\Desktop\qwe\canEgrisi\canEgrisi\obj\Debug\canEgrisi.Form1.resources
+C:\Users\Edward\Desktop\qwe\canEgrisi\canEgrisi\obj\Debug\canEgrisi.Properties.Resources.resources
+C:\Users\Edward\Desktop\qwe\canEgrisi\canEgrisi\obj\Debug\canEgrisi.csproj.GenerateResource.cache
+C:\Users\Edward\Desktop\qwe\canEgrisi\canEgrisi\obj\Debug\canEgrisi.csproj.CoreCompileInputs.cache
+C:\Users\Edward\Desktop\qwe\canEgrisi\canEgrisi\obj\Debug\canEgrisi.exe
+C:\Users\Edward\Desktop\qwe\canEgrisi\canEgrisi\obj\Debug\canEgrisi.pdb
+C:\Users\Edward\Desktop\170357058_Yasin Yiğit_ÇanEğrisi\canEgrisi\canEgrisi\bin\Debug\canEgrisi.exe.config
+C:\Users\Edward\Desktop\170357058_Yasin Yiğit_ÇanEğrisi\canEgrisi\canEgrisi\bin\Debug\canEgrisi.exe
+C:\Users\Edward\Desktop\170357058_Yasin Yiğit_ÇanEğrisi\canEgrisi\canEgrisi\bin\Debug\canEgrisi.pdb
+C:\Users\Edward\Desktop\170357058_Yasin Yiğit_ÇanEğrisi\canEgrisi\canEgrisi\obj\Debug\canEgrisi.csprojAssemblyReference.cache
+C:\Users\Edward\Desktop\170357058_Yasin Yiğit_ÇanEğrisi\canEgrisi\canEgrisi\obj\Debug\canEgrisi.Form1.resources
+C:\Users\Edward\Desktop\170357058_Yasin Yiğit_ÇanEğrisi\canEgrisi\canEgrisi\obj\Debug\canEgrisi.Properties.Resources.resources
+C:\Users\Edward\Desktop\170357058_Yasin Yiğit_ÇanEğrisi\canEgrisi\canEgrisi\obj\Debug\canEgrisi.csproj.GenerateResource.cache
+C:\Users\Edward\Desktop\170357058_Yasin Yiğit_ÇanEğrisi\canEgrisi\canEgrisi\obj\Debug\canEgrisi.csproj.CoreCompileInputs.cache
+C:\Users\Edward\Desktop\170357058_Yasin Yiğit_ÇanEğrisi\canEgrisi\canEgrisi\obj\Debug\canEgrisi.exe
+C:\Users\Edward\Desktop\170357058_Yasin Yiğit_ÇanEğrisi\canEgrisi\canEgrisi\obj\Debug\canEgrisi.pdb
